@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Workshop: Fruit store
 
 In this workshop, we'll build an online fruit store, with different items being sold, and different sellers.
@@ -209,3 +210,7 @@ You can reuse `ListingGrid` on the `/sellers/:sellerId` page, to render all of t
 The presentation of these pages is left entirely up to you. The only rule is that you have to use styled-components for styling.
 
 Have fun!
+=======
+# OnlineStore-ThemeDemo
+Web application project build with React.js / styled-component / React-router
+>>>>>>> ee29bc29fcd232630780dc10d56b25e6e69108eb
